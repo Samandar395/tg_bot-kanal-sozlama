@@ -4,7 +4,7 @@ import telebot
 BOT_TOKEN = "7379852050:AAGHmZbEStjVnlL0nwOaMbdryMaB4pHkg9A"
 
 # 📢 KANAL USERNAME (kanaling ochiq bo‘lishi shart va @ bilan boshlansin)
-CHANNEL_ID = "@dls_yangiliklari_n","@stars_tolovla"
+CHANNEL_ID = "@dls_yangiliklari_n","@kotta_bolacha"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
