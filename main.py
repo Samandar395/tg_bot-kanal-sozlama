@@ -1,7 +1,7 @@
 import telebot
 
 # 🔑 BOT TOKENINGNI BU YERGA QO'Y (BotFather'dan olgan token)
-BOT_TOKEN = "7739653402:AAHkep1ktyxOeNuz1HIbUTxrqhFVK0ikONA"
+BOT_TOKEN = "7379852050:AAGHmZbEStjVnlL0nwOaMbdryMaB4pHkg9A"
 
 # 📢 KANAL USERNAME (kanaling ochiq bo‘lishi shart va @ bilan boshlansin)
 CHANNEL_ID = "@dls_yangiliklari_n","@stars_tolovla"
